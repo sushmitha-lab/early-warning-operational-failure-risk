@@ -1,4 +1,4 @@
-# early-warning-operational-failure-risk
+# Early-warning-operational-failure-risk
 Interpretable ML system for predicting equipment failure risk and maintenance decisions
 # Early-Warning Operational Failure Risk System
 
